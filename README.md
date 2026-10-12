@@ -1,6 +1,5 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
-
-> A brief description of what the project does and its purpose.
+# Educational Inequality in U.S. High Schools: Exploring the Relationship Between Socioeconomic Factors and SAT/ACT Performance
+This project explores educational inequality in U.S. high schools by examining the relationship between socioeconomic factors and student performance on SAT and ACT exams. Through data analysis, we aim to identify patterns and determine whether socioeconomic conditions are associated with differences in academic performance and educational opportunities.
 
 ---
 
@@ -28,7 +27,8 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** [Link to the data source(s)](https://www.edgap.org/#5/37.805/-95.977)
+- https://nces.ed.gov/ccd/pubschuniv.asp
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
