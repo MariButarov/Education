@@ -30,8 +30,8 @@ This project explores educational inequality in U.S. high schools by examining h
 
 - **Source:** EdGap Dataset: edgap.org/#5/37.579/-95.998
 - National Center for Education Statistics (NCES): https://nces.ed.gov/ccd/pubschuniv.asp 
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** 
+- **Description:** The project uses high school data containing average ACT scores, socioeconomic indicators, and geographic information. The socioeconomic variables include unemployment rates, college education levels, marriage rates, median household income, and free or reduced-price lunch eligibility. After merging and cleaning the datasets, the final dataset contains 7,227 high schools across 20 U.S. states. The data were processed and analyzed using Python.
+**License:** To be confirmed from the original data sources.
 
 ---
 
